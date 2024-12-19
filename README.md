@@ -1,7 +1,7 @@
 # A simple demonstration of how to use the Streamlit framework
 
 ## Hugging Face Demo
-![Hugging Face Demo](./06-hf/output/hf.png)
+![Hugging Face Demo](./06-HuggingFace/output/hf.png)
 
 ## Altait chart
 ![Altair](./04-tree/output/altair.png)
